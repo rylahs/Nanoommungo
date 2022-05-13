@@ -3,7 +3,7 @@
 # 프로젝트 개발 환경
 - IDE : Ecplise  
 - Lan : Android SDK(4.1.2 JellyBean), Java  
-- Lib : OpenTalkOn(Chat), NaverOpenAPI(ISBN Search),   
+- Lib : OpenTalkOn(Chat), NaverOpenAPI(ISBN Search), ZXing Lib(ISBN Scan)
 - DB : MySQL  
 - OS : Windows 7   
 
@@ -13,8 +13,8 @@
 # 역할
 - 책 업로드 기능 (IBSN 스캔을 통한 책 정보 자동 업로드)  
 - 공유자 <-> 대여자간 채팅  
-- 거리 정보   
-- DB 등 보조프로그래머 역할 수행    
+- 거리 정보 등 
+- 보조 프로그래머  역할 수행
 
 
 # 상세 내용
