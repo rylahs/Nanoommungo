@@ -34,7 +34,7 @@
 ![04](https://user-images.githubusercontent.com/94848571/167091633-7533e80d-be00-49f1-9931-46f58d2c45d3.gif)
 ![05](https://user-images.githubusercontent.com/94848571/167091635-8508b2f8-4f59-4dd4-8be3-78cee99c05bd.gif)
 ![06](https://user-images.githubusercontent.com/94848571/167091638-99e87a26-f567-4518-817d-96fcce92c28b.gif)
-![07](https://user-images.githubusercontent.com/94848571/167091643-201759b3-7588-43e9-a44a-f07027e8e101.gif)
+<!-- ![07](https://user-images.githubusercontent.com/94848571/167091643-201759b3-7588-43e9-a44a-f07027e8e101) -->
 - [PPT](PPT.pdf) 참고
 - [Report](Report.pdf) 참고
 # 기타 의견
