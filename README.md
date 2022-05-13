@@ -26,7 +26,7 @@
 ![06](https://user-images.githubusercontent.com/94848571/167091638-99e87a26-f567-4518-817d-96fcce92c28b.gif)
 ![07](https://user-images.githubusercontent.com/94848571/167091643-201759b3-7588-43e9-a44a-f07027e8e101.gif)
 - [PPT](PPT.pdf) 참고
-- [Report(Report.pdf) 참고
+- [Report](Report.pdf) 참고
 # 기타 의견
 - 상당히 인간관계로 힘들었던 프로젝트
 - 많은 생각을 할 수 있었던 프로젝트
